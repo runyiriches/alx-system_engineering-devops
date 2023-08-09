@@ -1,2 +1,2 @@
 #!/bin/bas
-perl -line "print if $ % 2 ==1'
+perl -line "print if $ % 2 ==1
